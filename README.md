@@ -9,7 +9,8 @@
 <br />
 <h2> MY TECH STACK </h2>
   
-<a href = https://img.shields.io/badge/<>-<JAVA SCRIPT>-<ORANGE>> 
+<a href = https://img.shields.io/badge/<J>-<JAVA SCRIPT>-<ORANGE>/>
+</a>
 <!--
 **kimdh1927/kimdh1927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
