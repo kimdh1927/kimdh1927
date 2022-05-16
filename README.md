@@ -11,7 +11,7 @@
 
 <a href = "https://www.w3schools.com/js/default.asp"><img alt="CSS3" src="https://img.shields.io/badge/JavaScriipt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
 </a>
-<!
+
 
 
 Here are some ideas to get you started:
