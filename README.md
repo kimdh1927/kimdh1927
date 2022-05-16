@@ -8,8 +8,9 @@
   
 <br />
 <h2> MY TECH STACK </h2>
-  
-<a href = <src="https://https://img.shields.io/badge/J-JAVA%20SCRIPT-orange" />
+
+<https://img.shields.io/badge/J-JAVA%20SCRIPT-orange> 
+<a href = "https://www.w3schools.com/js/default.asp"><img alt="CSS3" src="https://https://img.shields.io/badge/J-JAVA%20SCRIPT-orange" />
 </a>
 <!--
 **kimdh1927/kimdh1927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
