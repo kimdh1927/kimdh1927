@@ -14,7 +14,7 @@
 
 
 
-Here are some ideas to get you started:
+####Summary
 
 - 😄 A place of learning: Semyung Univ.
 - 🌱 I’m currently learning Linux Programming
