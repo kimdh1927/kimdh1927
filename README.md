@@ -1,6 +1,6 @@
-### <h1>안녕하세요  </h1>
+### <h1>Hello~  </h1>
 
-<h2>세명대학교 ICT학부생 김도현의 GitHub입니다.<h2>
+<h2>This is GitHub of Kim Do Hyun, a student of ICT at Semyung University.<h2>
  
 <p>
   
